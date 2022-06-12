@@ -28,6 +28,7 @@ Below are all the user input and outputs
 ### Input
 
 |Case|Type|Conditions|
+|----|----|----------|
 |Customer name|`String`|Not empty|
 |Start date|`DateTime`|Not empty|
 |End date|`DateTime`|Not empty|
@@ -39,6 +40,7 @@ Below are all the user input and outputs
 ### Output
 
 |Case|Type|
+|----|----|
 |Course daily cost|`Int`|
 |Course total cost|`Int`|
 |Total turnover|`Int`|
