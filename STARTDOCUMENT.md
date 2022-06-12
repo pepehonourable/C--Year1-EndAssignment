@@ -55,11 +55,28 @@ Below are all the user input and outputs
 
 # TestData
 
+### Customer
 
+|ID|Input|Code|
+|--|-----|----|
+|1|Name: John|addCustomer("John")|
+|2|Name: Adam|addCustomer("Adam")|
 
+### Course
 
+|ID|Input|Code|
+|--|-----|----|
+|1|Name: John Startdate: 01/06/2022 Enddate: 05/06/2022 hasStarter: Yes hasMain: Yes hasDessert: No|addCourse("John", "01/06/2022", "05/06/2022", Yes, Yes, No)|
+|2|Name: Adam Startdate: 03/06/2022 Enddate: 06/06/2022 hasStarter: No hasMain: Yes hasDessert: Yes|addCourse("John", "03/06/2022", "06/06/2022", No, Yes, Yes)|
 
+### Company
 
+|ID|Input|Code|
+|--|-----|----|
+|1|Company: Ramzi's Kitchen|addCompany("Ramzis Kitchen")|
+|2|Company: Nathan's Finger Bites|addCompany("Nathans Finger bites")|
+
+### Test Cases
 
 
 
