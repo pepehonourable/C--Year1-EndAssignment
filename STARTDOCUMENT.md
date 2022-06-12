@@ -1,8 +1,8 @@
-#Startsocument for Assignment 9 (Catering)
+# Startsocument for Assignment 9 (Catering)
 
 Startdocument of Nathan Mills. Student number 4996046.
 
-##Problem description
+## Problem description
 
 A company provides catering services. The administration for a number of
 customers is processed for a period indicated by a start and end date.
