@@ -34,7 +34,7 @@ Below are all the user input and outputs
 |End date|`DateTime`|Not empty|
 |Has starter|`Boolean`|Not empty|
 |Has main|`Boolean`|Not empty|
-|Has desert|`Boolean`|Not empty|
+|Has dessert|`Boolean`|Not empty|
 |Company name|`String`|Not empty|
 
 ### Output
@@ -78,5 +78,5 @@ Below are all the user input and outputs
 
 ### Test Cases
 
-
+![image](https://user-images.githubusercontent.com/91469944/173319290-2bd70462-bfd0-4ba1-bd73-df22cff5e33a.png)
 
