@@ -1,4 +1,4 @@
-# Startsocument for Assignment 9 (Catering)
+# Startdocument for Assignment 9 (Catering)
 
 Startdocument of Nathan Mills. Student number 4996046.
 
